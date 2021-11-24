@@ -1,5 +1,5 @@
 # Create-an-Automated-Amazon-Price-Tracker
-Web Scraping with Beautiful Soup.
+Web Scraping with Beautiful Soup and Send Email (smtplib).
 
 Udemy - Day 47  - 100 Days od Code:
 
